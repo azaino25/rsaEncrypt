@@ -3,11 +3,11 @@
 RSA Encryption algorithm implemented in C++ 
 
 HOW TO RUN:
--Change the desired string in run.sh file
--"make" in console
--./run.sh in console
--If successful, terminal will output keygen time, encrypt time, string encrypted, and decrypt time
--The keys will be in the directory the program is located (Not the most secure. I'm aware)
+-Change the desired string in run.sh file  
+-"make" in console  
+-"./run.sh" in console  
+-If successful, terminal will output keygen time, encrypt time, string encrypted, and decrypt time  
+-The keys will be in the directory the program is located (Not the most secure. I'm aware)  
 
 
 init.cc:

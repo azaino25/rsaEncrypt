@@ -1,3 +1,3 @@
 ./init
-./encrypt "Hello there, GENERAL KENOBI! KSHKSHKSHKSH"
+./encrypt "Alexander Zaino"
 ./decrypt 

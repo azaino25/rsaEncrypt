@@ -31,5 +31,6 @@ utils.cc
     Contains the definitions of constants
     Contains definitions of the structs used to store public and private keys
 
+Collaboration with Firas Asfar and Michael DiGregorio
 
 
